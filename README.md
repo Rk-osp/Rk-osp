@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi 👋, I'm Pouria Pakdaman
+# Hi 👋, I'm 
 
 I'm interested in programming and network science, I love studying current topics!
 
